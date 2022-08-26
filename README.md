@@ -13,10 +13,8 @@ To differentiate between a healthy plant and a plant by watching the detectable 
 
 **RESULTS:**
 
-ARCHITECTURE	        NO. OF EPOCHS	      TRAINING ACCURACY %	      TESTING ACCURACY %
-CUSTOM ARCHITECTURE	      11	                    98.42	                  97.3
-ALEXNET	                   7	                    96.16	                  83.5
-VGG	                      10	                    99.2	                  95.09
+![image](https://user-images.githubusercontent.com/111851675/186943093-df265ec4-6a66-4ee0-806a-b4980aa3c6f7.png)
+
 
 ![image](https://user-images.githubusercontent.com/111851675/186942857-116662e0-d0f7-46bc-9af3-982923a39b78.png)
 
